@@ -11,21 +11,26 @@
 }
  
  .jumbotron{
-    background:#000 url(../CSS/programming.jpg) no-repeat center center;
-    height: 300px;
-    margin: 10px;
-    border: 10px;
+    background:#000 url(../CSS/baiachia.jpg) no-repeat center center;
+    height: 250px;
+    margin: 220px;
+    border: 0px;
 
     
 }
+
  .jumbotron h1{
      color:#fff;
-     text-decoration: underline;
+     
 
  }
 
  .jumbotron p{
      color: #fff;
+ }
+ .parallax h1{
+    float: right;
+    color: black;
  }
 .introduction img{
     float: left;
